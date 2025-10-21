@@ -1,0 +1,10 @@
+{
+  "Id": 1,
+  "Name": "Ghoraba",
+  "Age": 30,
+  "Address": {
+    "Street": "Mossab Ibn-Omair",
+    "City": "Cairo",
+    "Country": "Egypt"
+  }
+}
