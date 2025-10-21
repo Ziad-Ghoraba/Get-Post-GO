@@ -1,4 +1,4 @@
-# get-post-go
+# Get-Post-GO
 
 A lightweight Go REST API for managing users, supporting JSON-based storage and containerization with Docker.
 
